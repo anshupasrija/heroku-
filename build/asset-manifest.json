@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.628dda23.chunk.css",
+    "main.js": "/static/js/main.d583ba78.chunk.js",
+    "main.js.map": "/static/js/main.d583ba78.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.900dd88b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.900dd88b.js.map",
+    "static/js/2.26f80ef0.chunk.js": "/static/js/2.26f80ef0.chunk.js",
+    "static/js/2.26f80ef0.chunk.js.map": "/static/js/2.26f80ef0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.628dda23.chunk.css.map": "/static/css/main.628dda23.chunk.css.map",
+    "static/js/2.26f80ef0.chunk.js.LICENSE.txt": "/static/js/2.26f80ef0.chunk.js.LICENSE.txt",
+    "static/media/25boxes.df42263b.jpg": "/static/media/25boxes.df42263b.jpg",
+    "static/media/3boxes.755b9ad2.png": "/static/media/3boxes.755b9ad2.png",
+    "static/media/booknow.fa61a15d.jpg": "/static/media/booknow.fa61a15d.jpg",
+    "static/media/icon.fd9aeeb6.jpg": "/static/media/icon.fd9aeeb6.jpg",
+    "static/media/plastic_bins1.101a2ca0.png": "/static/media/plastic_bins1.101a2ca0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.900dd88b.js",
+    "static/js/2.26f80ef0.chunk.js",
+    "static/css/main.628dda23.chunk.css",
+    "static/js/main.d583ba78.chunk.js"
+  ]
+}
